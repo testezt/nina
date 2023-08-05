@@ -1,5 +1,4 @@
 #Exclude external DLL files
-/*/Altair
 /*/Canon
 /*/Nikon
 /**/*.lib
